@@ -35,15 +35,15 @@
         <meta property="og:locale" content="en_US">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Innovative EEG research | NBTresearch a research organization by NBT Analytics">
-        <meta property="og:description" content="NBTresearch - Innovative EEG research ">
+        <meta property="og:description" content=""NBTresearch - Innovative EEG research ">
         <meta property="og:url" content="http://nbtresearch.nbtwiki.net/">
         <meta property="og:site_name" content="NBTresearch">
         <meta property="og:image" content="http://nbtresearch.nbtwiki.net/img/logo.png">
         <meta name="twitter:card" content="summary">
         <meta name="twitter:site" content="@nbtwiki">
-        <meta name="twitter:title" content="Innovative EEG research | NBTresearch a research organization by NBT Analytic">
-        <meta name="twitter:description" content="NBTresearch - Innovative EEG research">
-        <meta name="twitter:image" content="http://nbtresearch.nbtwiki.net/img/logosmall.png">
+        <meta name="twitter:title" content="EEG analysis for clinical trials | NBT Analytics">
+        <meta name="twitter:description" content="NBT Analytics provides insights on how drugs influence the brain.">
+        <meta name="twitter:image" content="http://www.nbt-analytics.com/img/logosmall.png">
         <!-- Social media -->
         
     </head>
@@ -171,7 +171,6 @@
                 </div>
             </div>
         </div>
-        </div>
         
         <div id="contact">
             <div class="container">
@@ -233,12 +232,12 @@
             {
             "@context": "http://schema.org",
             "@type": "Organization",
-            "name" : "NBTresearch",
-            "url": "http://nbtresearch.nbtwiki.net/",
-            "logo": "http://nbtresearch.nbtwiki.net/img/NBTlogo.png",
+            "name" : "NBT Analytics",
+            "url": "http://www.nbt-analytics.com",
+            "logo": "http://www.nbt-analytics.com/img/logo.png",
             "sameAs" : [
-            "https://twitter.com/nbtwiki",
-            "https://www.facebook.com/nbtwiki",
+            "https://twitter.com/nbtanalytics",
+            "https://www.facebook.com/nbtanalytics",
             "https://www.linkedin.com/company/nbt-analytics",
             "https://plus.google.com/+nbt-analytics",
             "https://github.com/NBT-Analytics"
