@@ -104,9 +104,9 @@
                             Electroencephalography (EEG) provides detailed information on brain activity. EEG biomarkers represent this information based on algorithms that extract specific properties of the EEG signals. This can be the spectral content, such as, the power or peak frequency of the alpha oscillations, or it can be biomarkers in the temporal or spatial domain, such as, long-range temporal correlations or the phase lag index. Importantly, these biomarkers can be sensitive to disease or intervention-induced changes in brain activity, making them critical for neuroscience research.
                         </p>
                         <p align="justify">                       
-                            Since 2008 we have developed the <a href="http://www.nbtwiki.net/"> Neurophysiological Biomarker Toolbox (NBT) </a>. NBT's core aim is to provide a large selection of algorithms for analysing EEG signals in an easy-to-use EEG toolbox. In 2012 we released part of this toolbox as open-source code to the public.
-                            The toolbox has since then been used in multiple research projects (<a href="https://www.nbtwiki.net/doku.php?id=publications">more than 10 peer-reviewed articles published</a>), and has more than 1500 registered users. 
-                            In 2015 we established the company <a href="http://www.nbt-analytics.com">NBT Analytics</a> in order to accelerate the development and use of advanced EEG analysis in clinical trials. NBT Analytics has obtained an exclusive license on the closed-sourced part of the toolbox.
+                            Since 2008 we have developed the Neurophysiological Biomarker Toolbox (NBT). NBT core aim is to provide a large selection of algorithms for analysing EEG signals in an easy-to-use EEG toolbox. In 2012 we released part of this toolbox as open-source code to the public.
+                            The toolbox has since then been used in multiple research projects (more than 10 peer-reviewed articles published), and has more than 1500 registered users. 
+                            In 2015 we established the company NBT Analytics in order to accelerate the development and use of advanced EEG analysis in clinical trials. NBT Analytics has obtained an exclusive license on the closed-sourced part of the toolbox.
                         </p>
                         <p align="justify">                    
                             NBT Analytics is committed to the advancement of EEG signal processing to better understand brain states. We have, therefore, established the research organization NBTresearch to give a community of researchers access to the research version of the NBT toolbox. This version of the toolbox is significantly different from the public open-source NBT toolbox, providing a completely new data format and new algorithms.
@@ -115,6 +115,7 @@
                     </div>  
                     <div class="col-md-6">
                         <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fnbtwiki%2Fposts%2F10154170786674172&width=500" width="500" height="506" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+                        
                         <div class="addthis_inline_follow_toolbox"></div>
                         <script src="https://apis.google.com/js/platform.js"></script>
                         <div class="g-ytsubscribe" data-channelid="UCvJkRt2wLJaU4nTRZlEW8zA" data-layout="default" data-count="default"></div>
@@ -128,24 +129,23 @@
         <div id="member">
             <div class="container">
                 <div class="row">
+                    <div class="col-md-6">           
+                        <h6>Membership</h6>
+                        <h2> Become a member</h2>
+                        <p align="justify">
+                            We only accept members that expect to provide significant contributions to the toolbox. If you are interested in becoming a member, then please write a mail to info@nbtwiki.net, with detailed information about your research and how it benefits from and contributes to NBT. 
+                        </p>
+                        <h2> Contributions to the open-source toolbox </h2>
+                        <p align="justify">
+                            If you want to contribute to the open-source NBT toolbox including our online tutorials on EEG analysis, then you do not need to become a member of NBTresearch. The open-source NBT toolbox is available on Github, and we appreciate pull requests. Contributing your code will make it available for the global EEG research community. 
+                        </p>
+                    </div>
                     <div class="col-md-6">
                         <center>
                             <br>
                             <img alt="Neurophysiological Biomarker Toolbox" class="img-responsive" src="img/NBTlogo.png">
                         </center>
                     </div>
-                    <div class="col-md-6">           
-                        <h6>Membership</h6>
-                        <h2> Become a member</h2>
-                        <p align="justify">
-                            We only accept members that expect to provide significant contributions to the toolbox. If you are interested in becoming a member, then please write a mail to <a href="mailto:info@nbt-analytics.com" target="_top">info@nbt-analytics.com</a>, with detailed information about your research and how it benefits from and contributes to NBT. 
-                        </p>
-                        <h2> Contributions to the open-source toolbox </h2>
-                        <p align="justify">
-                            If you want to contribute to the open-source NBT toolbox including our online tutorials on EEG analysis, then you do not need to become a member of NBTresearch. The open-source NBT toolbox <a href="https://github.com/NBT-Analytics/NBTpublic">is available on Github</a>, and we appreciate pull requests. Contributing your code will make it available for the global EEG research community. 
-                        </p>
-                    </div>
-                    
                 </div>
             </div>
         </div>
@@ -167,8 +167,8 @@
                         <h2> Research consortia</h2>
                         <p align="justify">
                             We welcome requests for collaborations. This can be in the form of joint grant applications where you as an academic researcher will need an SME partner (NBT Analytics). Or, if you have a medical research question and would like to outsource the complex task of making the best of your EEG data.     
-                            Currently, we are a partner of the CognitionNet project funded by the EC under FP7-PEOPLE-2013 (607508).<br>
-                            <a href="http://www.nbt-analytics.com/#research">Read more on our website</a>
+                            Currently, we are a partner of the CognitionNet project funded by the EC under FP7-PEOPLE-2013 (607508).
+                            Read more on our website
                         </p>
                     </div>
                 </div>
@@ -181,7 +181,7 @@
                     <div class="col-md-3">
                         <h6>Contact</h6>
                         <p>
-                            E-mail: <a href="mailto:info@nbt-analytics.com" target="_top">info@nbt-analytics.com</a> <br>
+                            E-mail: info@nbt-analytics.com <br>
                             Call: +31 (0) 20 598 6479
                             <div class="addthis_inline_follow_toolbox"></div>
                             <a href="http://eepurl.com/RZE-1" style="color:#FFF" target="_blank">Subscribe to our newsletter</a> 
@@ -190,7 +190,8 @@
                     <div class="col-md-3">
                         <h6>Address</h6>
                         <address>
-                            NBT Analytics B.V. <br>
+                            NBT Analytics B.V.<br>
+                            c/o NBTresearch <br>
                             Amsterdam Health and Technology Center <br>
                             Paasheuvelweg 25 <br>
                             1105BP Amsterdam <br>
@@ -229,6 +230,7 @@
             
             ga('create', 'UA-82268759-1', 'auto');
             ga('send', 'pageview');
+            
         </script>
         <!-- Google Analytics -->
         <!-- Social Media -->
